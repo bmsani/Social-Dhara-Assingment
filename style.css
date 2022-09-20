@@ -2,3 +2,12 @@ body{
     width: 80vw;
     margin: 0 auto;
 }
+
+.jumpBtn{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px 8px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
